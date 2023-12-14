@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/w2xg2022/ax18usb
+  REPO_URL: https://github.com/Leo357449107/qsdk_cmiot-ax6/tree/qsdk_12.0.5.R2_k5.4
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
